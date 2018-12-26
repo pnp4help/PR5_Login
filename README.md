@@ -1,0 +1,2 @@
+# PR5_Login
+In this tutorial, You will get an idea about how to make simple Login Application in Android with following features Successful Login message in TextView with Green background if Username & password is correct. Failure message in TextView with Red background if Username or password is incorrect.Disable Login Button after three wrong login attempts. Close application if user selects Cancel Button. We will use Button, EditText, TextView ,”setVisibility()”.
